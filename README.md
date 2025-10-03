@@ -1,5 +1,7 @@
 # 🎨 C++ Pattern Programs Collection
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A comprehensive collection of **19 different C++ pattern programs** demonstrating various algorithmic approaches to generate beautiful console output patterns using stars, numbers, and spaces.
 
 ## 📋 Table of Contents
