@@ -299,7 +299,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Author
 
-**Albert Alwin**
+**Alwin Albert**
 - GitHub: [@alwinalbert](https://github.com/alwinalbert)
 - Repository: [patterns](https://github.com/alwinalbert/patterns)
 
@@ -309,4 +309,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Happy Coding! 🎉**
 
-> *"The beauty of programming lies not just in solving problems, but in creating beautiful patterns that demonstrate the elegance of algorithmic thinking."*
